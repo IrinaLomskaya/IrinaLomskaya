@@ -3,6 +3,7 @@
 <h1 align="center"> Hi, I'm Irina </h1>
 <h2 align="center"> &#128301; Data Scientist &#128105;&#8205;&#128187;  </h2>
 
+<h1 align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="30" height="40"/>&nbsp;
@@ -13,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" width="40" height="40"/>&nbsp;
-<img src="https://root.cern/img/logos/ROOT_Logo/misc/generic-logo-color-512.png" width="40" height="40"/>&nbsp;
+<img src="https://root.cern/img/logos/ROOT_Logo/misc/generic-logo-color-512.png" width="40" height="40"/>&nbsp; </h1>
           
           
           
