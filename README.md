@@ -21,6 +21,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp;
 </h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaLomskaya)](https://github.com/anuraghazra/github-readme-stats)
+
           
           
           
