@@ -29,7 +29,7 @@
 
 <h5 style="font-weight: normal"> &#11088; In my free of work time I do ballet, paint, play musical instruments, and play computer games. </h5>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaLomskaya)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrinaLomskaya=default)
 
 
 
