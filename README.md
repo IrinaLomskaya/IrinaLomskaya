@@ -34,6 +34,8 @@
 |Project name| Description| Stack|
 |----------------|-----------------|-----|
 |[Tournickets trace](https://github.com/IrinaLomskaya/Turnikets)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn**|
+|[Recommendation system](https://github.com/IrinaLomskaya/recommendation)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn** **FastApi** **CatBoost**|
+
 ## Follow me 👀
 
 <div align="center">
