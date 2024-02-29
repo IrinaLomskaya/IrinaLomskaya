@@ -3,6 +3,7 @@
 <h1 align="center"> Hi, I'm Irina </h1>
 <h2 align="center"> &#128301; Data Scientist &#128105;&#8205;&#128187;  </h2>
 
+<div>
 <h1 align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>&nbsp;
@@ -19,11 +20,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp;
-</h1>
+</h1> </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaLomskaya)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/IrinaLomskaya/badges/large)](https://www.codewars.com/users/IrinaLomskaya) 
           
           
           
