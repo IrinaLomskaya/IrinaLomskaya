@@ -1,5 +1,7 @@
-### Hi there 👋
-![fd9dd2e4a2c19335431a9c87dbd65069c2cacbc9r1-500-376_hq](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/6257ccd0-0117-45af-b1ce-b55595901197)
+![orig](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/00daa2cb-6c66-48e3-8193-382cf0a9414b)
+
+### Hi, I am Irina 👋
+
 
 <!--
 **IrinaLomskaya/IrinaLomskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
