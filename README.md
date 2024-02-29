@@ -1,6 +1,7 @@
-![orig](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/00daa2cb-6c66-48e3-8193-382cf0a9414b)
+![много-гифок-гифки-Pixel-Art-Pixel-Gif-3509145](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/9221d4a8-8a4a-4abd-9569-baf10da07e87)
 
-### Hi, I am Irina 👋
+
+### Hi, I'm Irina 👋
 
 
 <!--
