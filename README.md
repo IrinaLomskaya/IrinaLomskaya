@@ -29,6 +29,11 @@
 
 <h5 style="font-weight: normal"> &#11088; In my free of work time I do ballet, paint, play musical instruments, and play computer games. </h5>
 
+### :book: My projects:
+
+|Project name| Description| Stack|
+|----------------|-----------------|-----|
+
 ## Follow me 👀
 
 <div align="center">
