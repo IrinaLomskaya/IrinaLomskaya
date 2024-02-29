@@ -22,19 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp;
 </h1> </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaLomskaya)](https://github.com/anuraghazra/github-readme-stats)
-
-          
-          
-          
-          
-
-          
-          
-          
-          
-          
-          
 
 <h5 style="font-weight: normal"> &#11088; I work as a Data scientist in physical researches. Now my work is focused on studying of neutrinos from astrophysical sources. I use mostly statistical methods and statistical tools for the analysis.</h5>
 
@@ -42,6 +29,7 @@
 
 <h5 style="font-weight: normal"> &#11088; In my free of work time I do ballet, paint, play musical instruments, and play computer games. </h5>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaLomskaya)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
