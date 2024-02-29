@@ -28,7 +28,7 @@
 
 <h4 style="font-weight: normal"> &#11088; I like to solve interesting, difficult problems. Also I'm interested in competitions, where I could upgrade my skills. I'm a participate of many scientific conferences and co-autor of scientific papers. </h4>
 
-<h4 style="font-weight: normal"> &#11088; In my free of work time I do ballet, paint, play musical instruments, and play computer games. </h4>
+<h4 style="font-weight: normal"> &#11088; In my free from work time I do ballet, paint, play musical instruments, and play computer games. </h4>
 
 ## :book: My projects:
 
