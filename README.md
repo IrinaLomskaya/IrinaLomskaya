@@ -20,6 +20,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"/>&nbsp;
 </h1> </div>
 
 
@@ -35,6 +37,9 @@
 |----------------|-----------------|-----|
 |[Tournickets trace](https://github.com/IrinaLomskaya/Turnikets)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn**|
 |[Recommendation system](https://github.com/IrinaLomskaya/recommendation)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn** **FastApi** **CatBoost**|
+|[GUI App](https://github.com/IrinaLomskaya/gui_client)|Front and back development of gui application for calculating of elevation angle, initial velocity|**PyQt** **Flask**|
+|[Selenium tests](https://github.com/IrinaLomskaya/selenium_final)|Final project for stepik couse "QA Automatisation"|**Python** **Selenium**|
+
 
 ## Follow me 👀
 
