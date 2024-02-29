@@ -34,8 +34,6 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lomterator)
-[![Instagram](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=Instagram&logoColor=#ab46e3)](https://www.instagram.com/loirse/)
-[![Vkontakte](https://img.shields.io/badge/Instagram-0b0038?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/moonowl)
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
 </div>
