@@ -17,7 +17,7 @@
 <img src="https://root.cern/img/logos/ROOT_Logo/misc/generic-logo-color-512.png" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-ixdre&psig=AOvVaw1ggAQWEQiXc1BWAkMnoWCQ&ust=1709308345501000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCoxffz0IQDFQAAAAAdAAAAABAE)" width="40" height="40"/>&nbsp;
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DSQL&psig=AOvVaw1ggAQWEQiXc1BWAkMnoWCQ&ust=1709308345501000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCoxffz0IQDFQAAAAAdAAAAABAJ" width="40" height="40"/>&nbsp;
 
           
           
