@@ -1,10 +1,6 @@
 ![orig-2](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/422cd628-363e-46fd-860b-60833a33a93f)
-
-.markdown > h1 { text-align: center; }
 <h1 align="center;"> Hi, I'm Irina </h1>
 <h2 align="center;"> &#128301; Data Scientist &#128105;&#8205;&#128187;  </h2>
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="30" height="40"/>&nbsp;
