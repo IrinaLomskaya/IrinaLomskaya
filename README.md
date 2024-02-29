@@ -30,7 +30,7 @@
 
 <h4 style="font-weight: normal"> &#11088; In my free of work time I do ballet, paint, play musical instruments, and play computer games. </h4>
 
-### :book: My projects:
+## :book: My projects:
 
 |Project name| Description| Stack|
 |----------------|-----------------|-----|
@@ -49,7 +49,7 @@
 
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrinaLomskaya)
 
