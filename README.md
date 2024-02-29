@@ -33,7 +33,7 @@
 
 |Project name| Description| Stack|
 |----------------|-----------------|-----|
-
+|[Tournickets trace](https://github.com/IrinaLomskaya/Turnikets)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn**|
 ## Follow me 👀
 
 <div align="center">
