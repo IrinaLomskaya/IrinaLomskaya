@@ -14,7 +14,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" width="40" height="40"/>&nbsp;
-<img src="https://root.cern/img/logos/ROOT_Logo/misc/generic-logo-color-512.png" width="40" height="40"/>&nbsp; </h1>
+<img src="https://root.cern/img/logos/ROOT_Logo/misc/generic-logo-color-512.png" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-ixdre&psig=AOvVaw1ggAQWEQiXc1BWAkMnoWCQ&ust=1709308345501000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCoxffz0IQDFQAAAAAdAAAAABAE)" width="40" height="40"/>&nbsp;
+
+          
+          
+</h1>
 
           
           
