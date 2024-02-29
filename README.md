@@ -1,4 +1,5 @@
-![много-гифок-гифки-Pixel-Art-Pixel-Gif-3509145](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/9221d4a8-8a4a-4abd-9569-baf10da07e87)
+
+![orig-2](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/422cd628-363e-46fd-860b-60833a33a93f)
 
 
 ### Hi, I'm Irina 👋
