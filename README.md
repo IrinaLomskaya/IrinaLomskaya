@@ -38,7 +38,7 @@
 |[Tournickets trace](https://github.com/IrinaLomskaya/Turnikets)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn**|
 |[Recommendation system](https://github.com/IrinaLomskaya/recommendation)|Feature engineering, data analysis, ML model building|**Pandas** **Scikitlearn** **Seaborn** **FastApi** **CatBoost**|
 |[GUI App](https://github.com/IrinaLomskaya/gui_client)|Front and back development of gui application for calculating of elevation angle, initial velocity|**PyQt** **Flask**|
-|[Selenium tests](https://github.com/IrinaLomskaya/selenium_final)|Final project for stepik couse "QA Automatisation"|**Python** **Selenium**|
+|[Selenium tests](https://github.com/IrinaLomskaya/selenium_final)|Final project for stepik course "QA Automatisation"|**Python** **Selenium**|
 
 
 ## Follow me 👀
