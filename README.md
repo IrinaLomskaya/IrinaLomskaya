@@ -16,7 +16,6 @@
 <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" width="40" height="40"/>&nbsp;
 <img src="https://root.cern/img/logos/ROOT_Logo/misc/generic-logo-color-512.png" width="40" height="40"/>&nbsp; </h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
           
           
           
