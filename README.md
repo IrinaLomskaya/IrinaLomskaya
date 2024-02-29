@@ -29,6 +29,7 @@
 
 <h5 style="font-weight: normal"> &#11088; In my free of work time I do ballet, paint, play musical instruments, and play computer games. </h5>
 
+## Follow me 👀
 
 <div align="center">
 
@@ -38,6 +39,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
 </div>
+
+### :fire: My Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrinaLomskaya)
 
