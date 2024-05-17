@@ -1,7 +1,7 @@
 ![orig-2](https://github.com/IrinaLomskaya/IrinaLomskaya/assets/115121403/422cd628-363e-46fd-860b-60833a33a93f)
 
 <h1 align="center"> Hi, I'm Irina </h1>
-<h2 align="center"> &#128301; Data Scientist &#128105;&#8205;&#128187;  </h2>
+<h2 align="center"> &#128301; Astroparticle physicist and Data Scientist &#128105;&#8205;&#128187;  </h2>
 
 <div>
 <h1 align="center">
